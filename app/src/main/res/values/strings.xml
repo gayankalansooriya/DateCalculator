@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DateCalculator</string>
+    <string name="calendar">Calendar</string>
+    <string name="getDate">get data</string>
+    <string name="defaultDate">__ /__ / __</string>
+    <string name="numberOfDays"></string>
+    <string name="to">To</string>
+</resources>
